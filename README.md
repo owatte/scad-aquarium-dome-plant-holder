@@ -30,7 +30,7 @@ I printed my domes using a prusa MK2 printer
 
 ### Makerbot
 
-The STL file and pictures are available on makerbot
+The STL file and pictures are [available on makerbot](https://www.thingiverse.com/thing:3250524) 
 
 ## Licence
 
