@@ -2,35 +2,35 @@
 
 Ball Aquatic Moss Plants Cultivation created with openscad (Dome Shape Aquarium Marimo Moss)
 
-
 ## Generate STL
 
 The .scad file provides both dome and stopper parts. 
 
 To generate 2 distincts STL files, you just have to set `true` or `false` on `DOME` and `STOPPER` constants (line 20, 21).
 
-### generate dome STL
+### dome STL
 ```
 DOME = true;
 STOPPER = false;
 ```
-### generate stopper STL
 
+### stopper STL
 ```
 DOME = false;
 STOPPER = true;
 ```
-## Download thing on Makerbot site
 
-This thing is available on makerbot site, with pictures.
+## Download STL on thingiverse site
+
+STL is available on makerbot site, with pictures.
 
 ### Printing 
 
-I printed my domes using a prusa MK2 printer
+I printed my domes using a prusa MK2 printer.
 
 ### Makerbot
 
-The STL file and pictures are [available on makerbot](https://www.thingiverse.com/thing:3250524) 
+The STL files and some pictures are [available on thingiverse](https://www.thingiverse.com/thing:3250524) 
 
 ## Licence
 
