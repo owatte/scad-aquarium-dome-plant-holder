@@ -1,4 +1,4 @@
-# scad-aquarium-dome-plant-holder
+# Aquarium Dome Plant Holder (openSCAD)
 
 Ball Aquatic Moss Plants Cultivation created with openscad (Dome Shape Aquarium Marimo Moss)
 
@@ -8,13 +8,13 @@ The .scad file provides both dome and stopper parts.
 
 To generate 2 distincts STL files, you just have to set `true` or `false` on `DOME` and `STOPPER` constants (line 20, 21).
 
-### dome STL
+### Dome STL
 ```
 DOME = true;
 STOPPER = false;
 ```
 
-### stopper STL
+### Stopper STL
 ```
 DOME = false;
 STOPPER = true;
@@ -22,15 +22,11 @@ STOPPER = true;
 
 ## Download STL on thingiverse site
 
-STL is available on makerbot site, with pictures.
+The STL files and some pictures are [available on thingiverse](https://www.thingiverse.com/thing:3250524) 
 
 ### Printing 
 
 I printed my domes using a prusa MK2 printer.
-
-### Makerbot
-
-The STL files and some pictures are [available on thingiverse](https://www.thingiverse.com/thing:3250524) 
 
 ## Licence
 
