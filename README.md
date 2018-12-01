@@ -20,7 +20,7 @@ STOPPER = false;
 DOME = false;
 STOPPER = true;
 ```
-## Download think on Makerbot site
+## Download thing on Makerbot site
 
 This thing is available on makerbot site, with pictures.
 
