@@ -1,6 +1,6 @@
 # Aquarium Dome Plant Holder (openSCAD)
 
-Ball Aquatic Moss Plants Cultivation created with openscad (Dome Shape Aquarium Marimo Moss)
+Dome shape aquarium marimo moss, riccia (ball aquatic moss plants cultivation), created with openscad. 
 
 ## Generate STL
 
